@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon src/index.js"
   },
-  "author": "",
+  "author": "Shivansh Tandon",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
