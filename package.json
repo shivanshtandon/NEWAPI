@@ -1,5 +1,6 @@
 {
   "name": "newapi",
+  "url": "https://github.com/shivanshtandon/NEWAPI.git",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
